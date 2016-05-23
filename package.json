@@ -10,7 +10,6 @@
     "hubot-google-images": "^0.1.1",
     "hubot-google-translate": "^0.1.0",
     "hubot-help": "^0.1.1",
-    "hubot-heroku-keepalive": "0.0.4",
     "hubot-maps": "0.0.0",
     "hubot-pugme": "^0.1.0",
     "hubot-redis-brain": "0.0.2",
@@ -18,7 +17,9 @@
     "hubot-scripts": "^2.5.16",
     "hubot-shipit": "^0.1.1",
     "hubot-slack": "^3.0.0",
-    "hubot-youtube": "^0.1.2"
+    "hubot-youtube": "^0.1.2",
+    "coffee-script": "~1.6",
+    "hubot-slack-soukoban": "0.0.1"
   },
   "engines": {
     "node": "0.10.x"
